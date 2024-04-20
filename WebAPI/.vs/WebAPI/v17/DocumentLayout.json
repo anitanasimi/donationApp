@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\react-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Controllers\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\appsettings.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\appsettings.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\Dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Models\\Dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Models\\DonationDBContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\react-app\\package-lock.json",
+              "RelativeDocumentMoniker": "..\\..\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\react-app\\package-lock.json",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\react-app\\package-lock.json",
+              "RelativeToolTip": "..\\..\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\react-app\\package-lock.json",
+              "ViewState": "AQIAAGQCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:06:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\React-CRUD-with-Asp.Net-Core-Web-API-master 2\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:04:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewFile",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Controllers\\NewFile",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\NewFile",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Controllers\\NewFile",
+              "RelativeToolTip": "WebAPI\\Controllers\\NewFile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-20T01:02:03.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\appsettings.json*",
+              "RelativeToolTip": "WebAPI\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:00:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "startup.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\startup.cs",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\startup.cs*",
+              "RelativeToolTip": "WebAPI\\startup.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:58:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dcandidate.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\Dcandidate.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Dcandidate.cs",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\Dcandidate.cs*",
+              "RelativeToolTip": "WebAPI\\Models\\Dcandidate.cs*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:54:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DonationDBContext.cs",
+              "ToolTip": "C:\\Users\\anita\\Desktop\\donationApp\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DonationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:47:40.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
